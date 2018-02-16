@@ -1,7 +1,9 @@
-package com.example.pokeout.pokeout;
+package com.example.pokeout.pokeout.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.pokeout.pokeout.R;
 
 public class MainActivity extends AppCompatActivity {
 
